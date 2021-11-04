@@ -10,7 +10,7 @@ system. Some of the main items provided by your shell are:\
 • A programming language.
 
 <p align="center">
- <img alt="Terraform Logo" src="https://www.aritsltd.com/blog/wp-content/uploads/2020/04/executing-bash-script-on-multiple-remote-server.jpg">
+ <img alt="Bash Logo" src="https://www.aritsltd.com/blog/wp-content/uploads/2020/04/executing-bash-script-on-multiple-remote-server.jpg">
 </p>
 
 

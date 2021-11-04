@@ -4,7 +4,7 @@ A shell is a fundamental and important part of your Linux computing environment.
 • An interactive textual user interface to the operating system.\
 • An operating environment.\
 • A facility for launching and managing commands and programs.\
-• A programming language.\
+• A programming language.
 
 <p align="center">
  <img alt="Bash Logo" src="https://www.aritsltd.com/blog/wp-content/uploads/2020/04/executing-bash-script-on-multiple-remote-server.jpg">

@@ -13,17 +13,16 @@ A shell is a fundamental and important part of your Linux computing environment.
 
 ## Published articles:
 
- - [Terraform Tutorial - Part 1 - Docker Introduction]()
+ - [Bash Script Tutorial - Part 1 - Using-Multiple-Commands]()
 
- - [Terraform Tutorial - Part 2 - GitHub Introduction]()
+ - [Bash Script Tutorial - Part 2 - Display-Messages]()
 
- - [Terraform Tutorial - Part 3 - Kubernetes Introduction]()
+ - [Bash Script Tutorial - Part 3 - Using-Variables]()
 
- - [Terraform Tutorial - Part 4 - Gitlab Introduction]()
+ - [Bash Script Tutorial - Part 4 - Math-Example]()
 
- - [Terraform Tutorial - Part 5 - HA proxy Introduction]()
+ - [Bash Script Tutorial - Part 5 - if-then-Statement]()
 
- - [Terraform Tutorial - Part 6 - Grafana Introduction]()
 
 
 ## Contributions:
@@ -34,7 +33,6 @@ If you find any **bugs** in the examples, please file an issue.
 
 ### TODO:
 
- - [ ] Adding Terraform Azure DevOps
- - [ ] Adding Terraform Vcenter
- - [ ] Adding Terraform Consul
- - [ ] Adding Terraform Vault
+ - [ ] Adding Bash Script ...
+ - [ ] Adding Bash Script ...
+

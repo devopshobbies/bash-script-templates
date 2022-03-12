@@ -7,4 +7,4 @@ system. Some of the main items provided by your shell are:\
 • An interactive textual user interface to the operating system.\
 • An operating environment.\
 • A facility for launching and managing commands and programs.\
-• A programming language.\
+• A programming language.

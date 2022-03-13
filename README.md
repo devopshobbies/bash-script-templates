@@ -8,3 +8,42 @@ system. Some of the main items provided by your shell are:\
 • An operating environment.\
 • A facility for launching and managing commands and programs.\
 • A programming language.
+
+<p align="center">
+ <img alt="Bash Logo" src="https://www.aritsltd.com/blog/wp-content/uploads/2020/04/executing-bash-script-on-multiple-remote-server.jpg">
+</p>
+
+
+## Published articles:
+
+ - [Bash Script Tutorial - Part 1 - Using-Multiple-Commands]()
+
+ - [Bash Script Tutorial - Part 2 - Display-Messages]()
+
+ - [Bash Script Tutorial - Part 3 - Using-Variables]()
+
+ - [Bash Script Tutorial - Part 4 - Math-Example]()
+
+ - [Bash Script Tutorial - Part 5 - if-then-Statement]()
+ 
+ - [Bash Script Tutorial - Part 6 - Double-Parentheses-Command-Symbols]()
+ 
+ - [Bash Script Tutorial - Part 7 - Using-Double-Brackets]()
+ 
+ - [Bash Script Tutorial - Part 8 - Case-Command]()
+ 
+ - [Bash Script Tutorial - Part 9 - For-Command]()
+
+
+## Contributions:
+
+All contributions are welcomed. Help me to enrich this repository.
+
+If you find any **bugs** in the examples, please file an issue.
+
+### TODO:
+
+ - [ ] Adding Bash Script ...
+ - [ ] Adding Bash Script ...
+
+

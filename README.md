@@ -22,7 +22,14 @@ A shell is a fundamental and important part of your Linux computing environment.
  - [Bash Script Tutorial - Part 4 - Math-Example]()
 
  - [Bash Script Tutorial - Part 5 - if-then-Statement]()
-
+ 
+ - [Bash Script Tutorial - Part 6 - Double-Parentheses-Command-Symbols]()
+ 
+ - [Bash Script Tutorial - Part 7 - Using-Double-Brackets]()
+ 
+ - [Bash Script Tutorial - Part 8 - Case-Command]()
+ 
+ - [Bash Script Tutorial - Part 9 - For-Command]()
 
 
 ## Contributions:

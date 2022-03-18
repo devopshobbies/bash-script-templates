@@ -16,4 +16,5 @@ done
 # For Answer :
 # useradd rich
 # In /home/rich/ :
-# touch test
+# touch test-file
+# mkdir test-directory

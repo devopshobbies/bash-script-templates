@@ -13,7 +13,7 @@ A shell is a fundamental and important part of your Linux computing environment.
 
 ## Published articles:
 
- - [Bash Script Tutorial - Part 1 - Using-Multiple-Commands]()
+ - [Bash Script Tutorial - Part 1 - Using-Multiple-Commands](Basic-Script-Bulding/part01-Using-Multiple-Commands.sh)
 
  - [Bash Script Tutorial - Part 2 - Display-Messages]()
 

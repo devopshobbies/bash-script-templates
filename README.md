@@ -21,15 +21,15 @@ A shell is a fundamental and important part of your Linux computing environment.
 
  - [Bash Script Tutorial - Part 4 - Math-Example](./Basic-Script-Bulding/part04-Math-Example.sh)
 
- - [Bash Script Tutorial - Part 5 - if-then-Statement](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 5 - if-then-Statement](./Basic-Script-Bulding/part05-if-then-Statement.sh)
  
- - [Bash Script Tutorial - Part 6 - Double-Parentheses-Command-Symbols](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 6 - Double-Parentheses-Command-Symbols](./Basic-Script-Bulding/part06-Double-Parentheses-Command-Symbols.sh)
  
- - [Bash Script Tutorial - Part 7 - Using-Double-Brackets](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 7 - Using-Double-Brackets](./Basic-Script-Bulding/part07-Using-Double-Brackets.sh)
  
- - [Bash Script Tutorial - Part 8 - Case-Command](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 8 - Case-Command](./Basic-Script-Bulding/part08-Case-Command.sh)
  
- - [Bash Script Tutorial - Part 9 - For-Command](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 9 - For-Command](./Basic-Script-Bulding/part09-For-Command.sh)
 
  - [Bash Script Tutorial - Part 10 - Reading-values-in-list](./Basic-Script-Bulding/)
  

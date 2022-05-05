@@ -31,15 +31,15 @@ A shell is a fundamental and important part of your Linux computing environment.
  
  - [Bash Script Tutorial - Part 9 - For-Command](./Basic-Script-Bulding/part09-For-Command.sh)
 
- - [Bash Script Tutorial - Part 10 - Reading-values-in-list](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 10 - Reading-values-in-list](./Basic-Script-Bulding/part10-Reading-values-in-list.sh)
  
- - [Bash Script Tutorial - Part 11 - Reading-values-from-command](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 11 - Reading-values-from-command](./Basic-Script-Bulding/part11-Reading-values-from-command.sh)
  
- - [Bash Script Tutorial - Part 12 - Reading-directory-using-wildcards](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 12 - Reading-directory-using-wildcards](./Basic-Script-Bulding/part12-Reading-directory-using-wildcards.sh)
  
- - [Bash Script Tutorial - Part 13 - The-C-Style-for-Command](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 13 - The-C-Style-for-Command](./Basic-Script-Bulding/part13-The-C-Style-for-Command.sh)
  
- - [Bash Script Tutorial - Part 14 - The-while-Command](./Basic-Script-Bulding/)
+ - [Bash Script Tutorial - Part 14 - The-while-Command](./Basic-Script-Bulding/part14-The-while-Command.sh)
 
 
 ## Contributions:

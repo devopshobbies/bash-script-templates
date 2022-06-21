@@ -41,6 +41,14 @@ A shell is a fundamental and important part of your Linux computing environment.
  
  - [Bash Script Tutorial - Part 14 - The-while-Command](./Basic-Script-Bulding/part14-The-while-Command.sh)
 
+ - [Bash Script Tutorial - Part 14 - The-while-Command](./Basic-Script-Bulding/part15-The-Break-Command.sh)
+ 
+ - [Bash Script Tutorial - Part 14 - The-while-Command](./Basic-Script-Bulding/part16-Testing-Parameters.sh)
+ 
+ - [Bash Script Tutorial - Part 14 - The-while-Command](./Basic-Script-Bulding/part17-Basic-Reading.sh)
+ 
+ - [Bash Script Tutorial - Part 14 - The-while-Command](./Basic-Script-Bulding/part18-Basic-Reading-2.sh)
+
 
 ## Contributions:
 

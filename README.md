@@ -40,6 +40,16 @@ A shell is a fundamental and important part of your Linux computing environment.
  - [Bash Script Tutorial - Part 13 - The-C-Style-for-Command]()
  
  - [Bash Script Tutorial - Part 14 - The-while-Command]()
+ 
+ - [Bash Script Tutorial - Part 15 - The-Break-Command]()
+  
+ - [Bash Script Tutorial - Part 16 - Testing-Parameters]()
+  
+ - [Bash Script Tutorial - Part 17 - Basic-Reading]()
+  
+ - [Bash Script Tutorial - Part 18 - Basic-Reading-2]()
+ 
+  
 
 
 ## Contributions:

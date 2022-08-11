@@ -1,9 +1,22 @@
 ### Function ###
 fun_name ( ) {
-cmd1
-cmd2
-...
+  cmd1
+  cmd2
+  ...
 }
+
+# and the single line version to create method 
+fun_name () { commands; }
+
+## Second format to create method ##
+function fun_name {
+  cmd1
+  cmd2
+  ...
+}
+
+# and the single line
+function fun_name { commands; }
 
 
 ### Using brackets ###

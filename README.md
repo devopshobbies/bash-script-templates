@@ -13,33 +13,33 @@ A shell is a fundamental and important part of your Linux computing environment.
 
 ## Published articles:
 
- - [Bash Script Tutorial - Part 1 - Using-Multiple-Commands](./Basic-Script-Bulding/part01-Using-Multiple-Commands.sh)
+ - [Bash Script Tutorial - Part 1 - Using-Multiple-Commands](Basic-Script-Bulding/part01-Using-Multiple-Commands.sh)
 
- - [Bash Script Tutorial - Part 2 - Display-Messages](./Basic-Script-Bulding/part02-Display-Messages.sh)
+ - [Bash Script Tutorial - Part 2 - Display-Messages](Basic-Script-Bulding/part02-Display-Messages.sh)
 
- - [Bash Script Tutorial - Part 3 - Using-Variables](./Basic-Script-Bulding/part03-Using-Variables.sh)
+ - [Bash Script Tutorial - Part 3 - Using-Variables](Basic-Script-Bulding/part03-Using-Variables.sh)
 
- - [Bash Script Tutorial - Part 4 - Math-Example](./Basic-Script-Bulding/part04-Math-Example.sh)
+ - [Bash Script Tutorial - Part 4 - Math-Example](Basic-Script-Bulding/part04-Math-Example.sh)
 
- - [Bash Script Tutorial - Part 5 - if-then-Statement](./Basic-Script-Bulding/part05-if-then-Statement.sh)
+ - [Bash Script Tutorial - Part 5 - if-then-Statement](Basic-Script-Bulding/part05-if-then-Statement.sh)
  
- - [Bash Script Tutorial - Part 6 - Double-Parentheses-Command-Symbols](./Basic-Script-Bulding/part06-Double-Parentheses-Command-Symbols.sh)
+ - [Bash Script Tutorial - Part 6 - Double-Parentheses-Command-Symbols](Basic-Script-Bulding/part06-Double-Parentheses-Command-Symbols.sh)
  
- - [Bash Script Tutorial - Part 7 - Using-Double-Brackets](./Basic-Script-Bulding/part07-Using-Double-Brackets.sh)
+ - [Bash Script Tutorial - Part 7 - Using-Double-Brackets](Basic-Script-Bulding/part07-Using-Double-Brackets.sh)
  
- - [Bash Script Tutorial - Part 8 - Case-Command](./Basic-Script-Bulding/part08-Case-Command.sh)
+ - [Bash Script Tutorial - Part 8 - Case-Command](Basic-Script-Bulding/part08-Case-Command.sh)
  
- - [Bash Script Tutorial - Part 9 - For-Command](./Basic-Script-Bulding/part09-For-Command.sh)
+ - [Bash Script Tutorial - Part 9 - For-Command](Basic-Script-Bulding/part09-For-Command.sh)
 
- - [Bash Script Tutorial - Part 10 - Reading-values-in-list](./Basic-Script-Bulding/part10-Reading-values-in-list.sh)
+ - [Bash Script Tutorial - Part 10 - Reading-values-in-list](Basic-Script-Bulding/part10-Reading-values-in-list.sh)
  
- - [Bash Script Tutorial - Part 11 - Reading-values-from-command](./Basic-Script-Bulding/part11-Reading-values-from-command.sh)
+ - [Bash Script Tutorial - Part 11 - Reading-values-from-command](Basic-Script-Bulding/part11-Reading-values-from-command.sh)
  
- - [Bash Script Tutorial - Part 12 - Reading-directory-using-wildcards](./Basic-Script-Bulding/part12-Reading-directory-using-wildcards.sh)
+ - [Bash Script Tutorial - Part 12 - Reading-directory-using-wildcards](Basic-Script-Bulding/part12-Reading-directory-using-wildcards.sh)
  
- - [Bash Script Tutorial - Part 13 - The-C-Style-for-Command](./Basic-Script-Bulding/part13-The-C-Style-for-Command.sh)
+ - [Bash Script Tutorial - Part 13 - The-C-Style-for-Command](Basic-Script-Bulding/part13-The-C-Style-for-Command.sh)
  
- - [Bash Script Tutorial - Part 14 - The-while-Command](./Basic-Script-Bulding/part14-The-while-Command.sh)
+ - [Bash Script Tutorial - Part 14 - The-while-Command](Basic-Script-Bulding/part14-The-while-Command.sh)
 
 
 ## Contributions:

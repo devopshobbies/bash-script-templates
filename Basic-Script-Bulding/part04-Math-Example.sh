@@ -1,7 +1,7 @@
 #!/bin/bash
-# An example of using the expr command
+# An example of a simple division
 
 var1=10
 var2=20
-var3=`expr $var2 / $var1`
-echo The result is $var3
+var3=$(( $var2 / $var1 ))
+echo "'$var2' divided by '$var1' results in '$var3'"
